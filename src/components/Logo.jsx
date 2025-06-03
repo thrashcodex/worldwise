@@ -8,5 +8,5 @@ function Logo() {
     </Link>
   );
 }
-
+console.log(lll);
 export default Logo;
