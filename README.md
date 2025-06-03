@@ -28,7 +28,7 @@
 ### ⚙️ Installation
 
 ```bash
-git clone https://github.com/Asmodeus0m/WORLDWISE-first-project.git
+git clone https://github.com/thrashcodex/worldwise.git
 cd worldwise
 npm install
 npm start

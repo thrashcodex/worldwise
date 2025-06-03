@@ -12,7 +12,6 @@ const formatDate = (date) =>
     year: "numeric",
     weekday: "long",
   }).format(new Date(date));
-
 function City() {
   const { GetCity, CurrentCity, Loading } = useCities();
   const { id } = useParams();
