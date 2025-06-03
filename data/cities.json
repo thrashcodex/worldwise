@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "id": "dea8",
+      "cityName": "Boston",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2025-05-24T13:28:14.633Z",
+      "notes": "",
+      "position": {
+        "lat": "42.35931394128187",
+        "lng": "-71.16102218627931"
+      }
+    },
+    {
+      "id": "197c",
+      "cityName": "Borriol",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-05-24T13:35:43.405Z",
+      "notes": "",
+      "position": {
+        "lat": "40.07622766302944",
+        "lng": "-0.026779174804687503"
+      }
+    },
+    {
+      "id": "0951",
+      "cityName": "Borriol",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-05-24T14:01:42.100Z",
+      "notes": "",
+      "position": {
+        "lat": "40.088061137564",
+        "lng": "-0.01596450805664063"
+      }
+    },
+    {
+      "id": "ce2f",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-05-24T14:09:08.916Z",
+      "notes": "",
+      "position": {
+        "lat": "40.020136236155274",
+        "lng": "-0.04205703735351563"
+      }
+    }
+  ]
+}
